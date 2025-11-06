@@ -1,0 +1,21 @@
+name: AutoPulse
+description: Vehicle OBD Assistant App
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.5.0
+
+flutter:
+  uses-material-design: true
+#  fonts:
+#    - family: Poppins
+#      fonts:
+#        - asset: fonts/Poppins-Regular.ttf
+#        - asset: fonts/Poppins-Bold.ttf
+#          weight: 700
